@@ -1,0 +1,4 @@
+Method,CPA_Significant,ConversionRate_Significant
+Uncorrected (a=0.05),5,14
+Bonferroni,0,14
+FDR (Benjamini-Hochberg),0,14

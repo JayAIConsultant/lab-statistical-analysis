@@ -1,0 +1,7 @@
+Channel,Mean_CPA,CI_Lower,CI_Upper
+Desktop - 1:1,6.9,6.64,7.17
+Desktop - Exact,7.61,6.5,8.7
+Desktop - Phrase,8.26,7.19,9.38
+Mobile - 1:1,6.45,6.09,6.79
+Mobile - Exact,8.37,6.75,10.86
+Mobile - Phrase,9.46,7.42,11.96

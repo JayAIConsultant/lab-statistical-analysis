@@ -1,0 +1,16 @@
+Group_A,Group_B,Conversions_A,Conversions_B,Rate_A,Rate_B,Diff,Pct_Diff,Odds_Ratio,p_value,Significant_p05,significant_bonferroni,p_value_fdr,significant_fdr
+Desktop - 1:1,Desktop - Exact,30382,6826,0.1859,0.1665,-0.0194,-10.4,1.143,4.116535858506408e-20,True,True,5.1456698231330095e-20,True
+Desktop - 1:1,Desktop - Phrase,30382,4982,0.1859,0.1635,-0.0224,-12.0,1.168,6.851939107957894e-21,True,True,9.343553329033491e-21,True
+Desktop - 1:1,Mobile - 1:1,30382,42006,0.1859,0.0799,-0.106,-57.0,2.629,0.0,True,True,0.0,True
+Desktop - 1:1,Mobile - Exact,30382,8212,0.1859,0.076,-0.1099,-59.1,2.775,0.0,True,True,0.0,True
+Desktop - 1:1,Mobile - Phrase,30382,3588,0.1859,0.0643,-0.1216,-65.4,3.323,0.0,True,True,0.0,True
+Desktop - Exact,Desktop - Phrase,6826,4982,0.1665,0.1635,-0.0029,-1.8,1.022,0.2989412485051275,False,False,0.2989412485051275,False
+Desktop - Exact,Mobile - 1:1,6826,42006,0.1665,0.0799,-0.0865,-52.0,2.299,0.0,True,True,0.0,True
+Desktop - Exact,Mobile - Exact,6826,8212,0.1665,0.076,-0.0904,-54.3,2.427,0.0,True,True,0.0,True
+Desktop - Exact,Mobile - Phrase,6826,3588,0.1665,0.0643,-0.1022,-61.4,2.907,0.0,True,True,0.0,True
+Desktop - Phrase,Mobile - 1:1,4982,42006,0.1635,0.0799,-0.0836,-51.1,2.251,0.0,True,True,0.0,True
+Desktop - Phrase,Mobile - Exact,4982,8212,0.1635,0.076,-0.0875,-53.5,2.376,0.0,True,True,0.0,True
+Desktop - Phrase,Mobile - Phrase,4982,3588,0.1635,0.0643,-0.0992,-60.7,2.845,0.0,True,True,0.0,True
+Mobile - 1:1,Mobile - Exact,42006,8212,0.0799,0.076,-0.0039,-4.9,1.056,1.543212196047748e-05,True,True,1.653441638622587e-05,True
+Mobile - 1:1,Mobile - Phrase,42006,3588,0.0799,0.0643,-0.0156,-19.6,1.264,6.736250865642185e-41,True,True,1.0104376298463278e-40,True
+Mobile - Exact,Mobile - Phrase,8212,3588,0.076,0.0643,-0.0117,-15.4,1.198,1.699753987341248e-18,True,True,1.961254600778363e-18,True
